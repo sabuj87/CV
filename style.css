@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.maindiv{
+    margin: 0 auto;
+    width: 800px;
+    background-color: #67b1b522;
+    padding: 40px;
+}
+.pimage{
+    width:125px ;
+    height: 160px;
+    float: left;
+    clear: both;
+}
+.header{
+    float: left;
+}
+header{
+  overflow: auto;
+}
+.header-bio{
+    
+    float: left;
+    margin-left: 70px;
+    position: relative;
+  
+}
+h1,h2,h3,h4,h5,h6{
+    color:#4472C4;
+}
+.h-name{
+  font-size: 20px;
+  color: black;
+}
+.h-title{
+    margin-top: 10px;
+    font-size: 17px;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+    display: block;
+    margin-top: 10px;
+
+}
+.clearfix{
+    clear: both;
+}
+.contact{
+   clear: both;
+   position: absolute;
+   left: 455px;
+   top:100px;
+   float: left;
+}
+.iconset{
+   float: left;
+}
+.contact-details{
+   
+    float: left;
+    margin-left: 10px;
+}
+.clink{
+    text-decoration: none;
+    margin-top: 18px;
+    color: black;
+    font-weight: bold;
+}
+#qr{
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+
+.line{
+    height: 3px;
+    width: 602px;
+    background-color: #4472C4;
+    margin-top: 30px;
+    float: right;
+    
+}
+.work{
+    float: left;
+}
+.about{
+    margin-left: 62px;
+    float:left;
+    width: 600px;
+    height: 200px;
+    text-align: justify;
+
+}
+.list{
+    width: 600px;
+    
+}
+.list1{
+    margin-top: 10px;
+    margin-left: 17px;
+    float: left;
+}
+.list1:last-child{
+    margin-left: 100px;
+
+}
+.list1 ul li{
+    font-weight: bold;
+    font-size: 15px;
+}
+.obj{
+    margin-top: 10px;
+}
+.midicon{
+  
+}
+.midimg{
+    
+    display: block;
+    margin: 20px auto;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 5px;
+
+    
+}
+.lineleft{
+    width: 356px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 7px;
+}
+.edu{
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+    
+}
+.deg{
+    float: left;
+    margin-top: 10px;
+}
+.year{
+    float: right;
+    margin-top: 10px;
+}
+.deg ul li{
+    font-weight: bold;
+}
+.pdeg{
+    margin-top: 5px;
+  font-size: 14px;
+  color: rgb(102, 96, 96);
+}
+.pyear{
+    text-align: right;
+    font-weight: bold;
+}
+.presult{
+    text-align: right;
+    margin-top: 5px;
+    font-size: 14px;
+    color: rgb(102, 96, 96);
+}
+.linetra{
+    width: 305px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 7px;
+}
+.lineand{
+    width: 340px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 7px;
+}
+.skills{
+    float: left;
+}
+.levels{
+    float: right;
+}
+.skills ul li{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.lavel1{
+    margin-top: 8px;
+}
+.box{
+    display: inline-block;
+    width: 25px;
+    height: 8px;
+    background-color: #4472C4;
+    border: 1px solid blue;
+    
+}
+.lineoth{
+    width: 314px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 7px;
+}
+.otherlist{
+    width: 400px;
+    float: left;
+}
+.otherlist ul li{
+    font-weight: bold;
+    margin-top: 10px;
+}
+.linework{
+    width: 358px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 7px;
+}
+.lineper{
+    width: 333px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 15px;
+}
+.lineref{
+    width: 355px;
+    height: 3px;
+    background-color: #4472C4;
+    float: left;
+    margin-top: 15px;
+}
